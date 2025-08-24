@@ -1,10 +1,21 @@
-# Turf up
+# Turf Together
 
-Flutter version: 3.32.1
-Dart versio: 3.8.1
+A Flutter app for hosting and joining local sports activities.
 
-# Folder strcuture
+**Flutter version:** 3.32.1  
+**Dart version:** 3.8.1
 
+---
+
+## 📂 Folder Structure  
+
+### 🏗️ Architecture Pattern
+- **Feature-first** folder structure
+- **Repository pattern** for data management
+- **Riverpod** for state management
+- **Clean separation** of concerns
+
+```plaintext
 lib/
 ├── core/
 │   ├── constants/
@@ -41,3 +52,5 @@ lib/
 │       └── widgets/
 ├── services/
 └── main.dart
+```
+
