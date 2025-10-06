@@ -3,6 +3,18 @@
 Flutter version: 3.35.5
 Dart versio: 3.9.2
 
+---
+
+## 📂 Folder Structure  
+
+### 🏗️ Architecture Pattern
+- **Feature-first** folder structure
+- **Repository pattern** for data management
+- **Riverpod** for state management
+- **Clean separation** of concerns
+
+```plaintext
+
 # Folder strcuture
 
 lib/
@@ -33,7 +45,7 @@ lib/
 │   │   │   └── sports_home_screen.dart
 │   │   └── widgets/
 │   │       └── sports_activity_card.dart
-│   └── chat/
+│   └── auth/
 │       ├── controllers/
 │       ├── models/
 │       ├── repositories/
