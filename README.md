@@ -14,7 +14,7 @@ A modern Flutter application for sports enthusiasts to discover, book, and manag
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/turf-up.git
+   git clone https://github.com/Vrushabh102/turf-up.git
    cd turf-up
    ```
 
