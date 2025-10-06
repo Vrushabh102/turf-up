@@ -1,7 +1,7 @@
 # Turf up
 
-Flutter version: 3.32.1
-Dart versio: 3.8.1
+Flutter version: 3.35.5
+Dart versio: 3.9.2
 
 # Folder strcuture
 

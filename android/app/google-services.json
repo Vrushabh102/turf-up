@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244796047606",
+    "project_id": "turf-reg",
+    "storage_bucket": "turf-reg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244796047606:android:23259e4fe94b16196bacd7",
+        "android_client_info": {
+          "package_name": "com.example.turf_together"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCdAU7FtG4TRqmo_Ayc1BCBsVNIr2-Kps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
