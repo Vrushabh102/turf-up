@@ -1,6 +1,6 @@
 # 🏈 Turf Up - Flutter Sports Application
 
-A modern Flutter application for sports enthusiasts to discover, book, and manage turf activities with a clean, feature-first architecture.
+A modern Flutter application for sports enthusiasts to discover and manage turf activities with a clean, feature-first architecture.
 
 ## 🚀 Quick Start
 
@@ -111,19 +111,9 @@ flutter analyze
 ### Current Features
 - ✅ User Authentication
 - ✅ Sports Activity Management
-- ✅ Turf Booking System
 - ✅ Responsive UI Design
 
 ### Platform-Specific Setup
-
-#### Android
-- Update `android/app/src/main/AndroidManifest.xml`
-- Configure permissions as needed
-
-#### iOS
-- Update `ios/Runner/Info.plist`
-- Configure necessary permissions
-
 
 ## 📦 Building for Production
 
